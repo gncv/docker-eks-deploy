@@ -1,5 +1,5 @@
 # docker-eks-deploy
-Docker image intended to use primarily in CI pipelines for deploying to AWS EKS.
+Docker image based on [alpine](https://hub.docker.com/_/alpine) intended to use primarily in CI pipelines for deploying to AWS EKS.
 
 Contains:
 - bash
