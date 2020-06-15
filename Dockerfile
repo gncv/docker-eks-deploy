@@ -1,7 +1,7 @@
 FROM alpine:latest
 LABEL maintainer="Mislav Cimpersak"
 
-RUN apk add --update bash curl jq py3-setuptools
+RUN apk add --update bash curl jq python3 python3-dev py3-pip
 
 RUN pip3 install awscli
 
