@@ -5,6 +5,7 @@ Contains:
 - bash
 - AWS CLI
 - kubectl
+- helm
 - aws-iam-authenticator
 - curl
 - jq
